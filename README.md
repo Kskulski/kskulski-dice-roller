@@ -1,4 +1,4 @@
-# skulski-dice-roller
+# kskulski-dice-roller
 # Author: Kevin Skulski
 # Contact: kevinpskulski@lewisu.edu
 # Class: Software Engineering
